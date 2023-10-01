@@ -26,45 +26,43 @@ Gerenciamento de serviços
 # O layout do aplicativo está disponível no Figma:
 
 # Layout no Figma
-# Como executar o projeto
+  Como executar o projeto
 
 # Para executar o projeto, você precisará ter as seguintes ferramentas instaladas:
 
-# Android Studio
-# SDK do Android
-# Pré-requisitos
+  Android Studio
+  SDK do Android
+  Pré-requisitos
 
 # Clone o repositório:
-# git clone https://github.com/[DiogoSousa80]/BarberShop.git
-# Abra o projeto no Android Studio.
-# Configure o SDK do Android.
-# Execute o aplicativo no emulador ou em um dispositivo real.
-# Como contribuir
+  git clone https://github.com/[DiogoSousa80]/BarberShop.git
+  Abra o projeto no Android Studio.
+  Configure o SDK do Android.
+  Execute o aplicativo no emulador ou em um dispositivo real.
+ Como contribuir
 
 # Para contribuir com o projeto, siga os seguintes passos:
 
-# Faça um fork do repositório.
-# Crie uma branch com sua feature:
-# git checkout -b my-feature
-# Faça as alterações necessárias.
-# Commite suas alterações:
-# git commit -m 'feat: My new feature'
-# Pushe suas alterações para a sua branch:
-# git push origin my-feature
-# Crie um pull request para a branch principal do projeto.
-# Autor
+ Faça um fork do repositório.
+ Crie uma branch com sua feature:
+ git checkout -b my-feature
+ Faça as alterações necessárias.
+ Commite suas alterações:
+ git commit -m 'feat: My new feature'
+ Pushe suas alterações para a sua branch:
+ git push origin my-feature
+ Crie um pull request para a branch principal do projeto.
+ Autor
 
 # O projeto foi desenvolvido por [Diogo Sousa].
-
-# Licença
 
 
 # Outras informações
 
-# O projeto está em desenvolvimento.
-# As funcionalidades podem ser alteradas ou adicionadas a qualquer momento.
+ O projeto está em desenvolvimento.
+ As funcionalidades podem ser alteradas ou adicionadas a qualquer momento.
 # Contribuições**
-# O projeto está aberto a contribuições. Se você tiver alguma ideia ou sugestão, sinta-se à vontade para contribuir.
+ O projeto está aberto a contribuições. Se você tiver alguma ideia ou sugestão, sinta-se à vontade para contribuir.
 
 
 
