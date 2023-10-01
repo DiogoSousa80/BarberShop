@@ -21,27 +21,27 @@ Gerenciamento de serviços
 
 
 
-# Layout
+  Layout
 
-# O layout do aplicativo está disponível no Figma:
+  O layout do aplicativo está disponível no Figma:
 
-# Layout no Figma
+  Layout no Figma
   Como executar o projeto
 
-# Para executar o projeto, você precisará ter as seguintes ferramentas instaladas:
+  Para executar o projeto, você precisará ter as seguintes ferramentas instaladas:
 
   Android Studio
   SDK do Android
   Pré-requisitos
 
-# Clone o repositório:
+  Clone o repositório:
   git clone https://github.com/[DiogoSousa80]/BarberShop.git
   Abra o projeto no Android Studio.
   Configure o SDK do Android.
   Execute o aplicativo no emulador ou em um dispositivo real.
- Como contribuir
+  Como contribuir
 
-# Para contribuir com o projeto, siga os seguintes passos:
+ Para contribuir com o projeto, siga os seguintes passos:
 
  Faça um fork do repositório.
  Crie uma branch com sua feature:
@@ -53,15 +53,14 @@ Gerenciamento de serviços
  git push origin my-feature
  Crie um pull request para a branch principal do projeto.
  Autor
+ O projeto foi desenvolvido por [Diogo Sousa].
 
-# O projeto foi desenvolvido por [Diogo Sousa].
 
-
-# Outras informações
+ Outras informações
 
  O projeto está em desenvolvimento.
  As funcionalidades podem ser alteradas ou adicionadas a qualquer momento.
-# Contribuições**
+ Contribuições**
  O projeto está aberto a contribuições. Se você tiver alguma ideia ou sugestão, sinta-se à vontade para contribuir.
 
 
